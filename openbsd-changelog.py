@@ -19,7 +19,10 @@ def printList():
         counter += 1
         print("{}{}{}:\t{}".format(RED, counter, RESET, element.getText().rstrip()))
 
-    print("\nEntries: {}".format(counter))
+    if not counter:
+        print("Changelog empty right now.")
+    else:
+        print("\nEntries: {}".format(counter))
 
 if __name__ == "__main__":
     printList()
