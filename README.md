@@ -3,7 +3,7 @@
 openbsd-changelog is a small utility to show changelog entries from OpenBSD-current.
 
 ## Screenshot
-
+![openbsd-changelog](https://github.com/user-attachments/assets/067e2cf2-2931-4fab-aa3a-17b3f4cafc3c)
 
 ## USAGE
 
