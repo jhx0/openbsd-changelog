@@ -2,6 +2,9 @@
 
 openbsd-changelog is a small utility to show changelog entries from OpenBSD-current.
 
+## Screenshot
+
+
 ## USAGE
 
 1. Install needed dependencies
